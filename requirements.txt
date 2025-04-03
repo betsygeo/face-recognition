@@ -1,11 +1,11 @@
 requests>=2.27.1
-numpy>=1.14.0
+numpy>=1.23.0
 pandas>=0.23.4
 gdown>=3.10.1
 tqdm>=4.30.0
 Pillow>=5.2.0
 opencv-python>=4.5.5.64
-tensorflow>=1.9.0
+tensorflow>=2.10.0
 keras>=2.2.0
 Flask>=1.1.2
 flask_cors>=4.0.1
@@ -18,5 +18,5 @@ fastapi[all]==0.110.0
 uvicorn==0.29.0
 firebase-admin==6.3.0
 deepface==0.0.93
-firebase-functions==3.20.1
 python-dotenv>=1.0.0
+firebase-functions==0.4.2
