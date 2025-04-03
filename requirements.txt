@@ -20,3 +20,4 @@ firebase-admin==6.3.0
 deepface==0.0.93
 python-dotenv>=1.0.0
 firebase-functions==0.4.2
+tf-keras>=2.10.0
