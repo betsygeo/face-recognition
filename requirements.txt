@@ -16,3 +16,4 @@ gunicorn>=20.1.0
 pinecone>=3.0.0
 fastapi==0.110.0
 uvicorn==0.29.0
+firebase-admin==6.3.0
