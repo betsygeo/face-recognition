@@ -21,3 +21,5 @@ deepface==0.0.93
 python-dotenv>=1.0.0
 firebase-functions==0.4.2
 tf-keras>=2.10.0
+transformers>=4.36.0
+torch>=2.0.0
