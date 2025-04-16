@@ -12,6 +12,8 @@ WORKDIR /app
 
 # Copy your code
 COPY . /app
+COPY .env.local .env.local
+COPY firebase-adminsdk.json firebase-adminsdk.json
 
 # Install Python dependencies
 RUN pip install --upgrade pip
